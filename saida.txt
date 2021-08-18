@@ -1,0 +1,11 @@
+Número de pessoas: 2
+Tamanho do nome: 6
+Nome: Samuel
+CPF: 123.456.789-00
+Idade: 20
+
+Tamanho do nome: 8
+Nome: Henrique
+CPF: 001.234.567-89
+Idade: 18
+
